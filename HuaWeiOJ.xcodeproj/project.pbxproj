@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		FB0C42101E9104E9004273E6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FB0C420F1E9104E9004273E6 /* main.m */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		FB0C420A1E9104E9004273E6 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,7 +20,6 @@
 
 /* Begin PBXFileReference section */
 		FB0C420C1E9104E9004273E6 /* HuaWeiOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HuaWeiOJ; sourceTree = BUILT_PRODUCTS_DIR; };
-		FB0C420F1E9104E9004273E6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +36,6 @@
 		FB0C42031E9104E9004273E6 = {
 			isa = PBXGroup;
 			children = (
-				FB0C420E1E9104E9004273E6 /* HuaWeiOJ */,
 				FB0C420D1E9104E9004273E6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,14 +46,6 @@
 				FB0C420C1E9104E9004273E6 /* HuaWeiOJ */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		FB0C420E1E9104E9004273E6 /* HuaWeiOJ */ = {
-			isa = PBXGroup;
-			children = (
-				FB0C420F1E9104E9004273E6 /* main.m */,
-			);
-			path = HuaWeiOJ;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +105,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB0C42101E9104E9004273E6 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
