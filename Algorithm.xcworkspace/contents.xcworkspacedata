@@ -5,6 +5,9 @@
       location = "group:twoSum"
       name = "twoSum">
       <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
          location = "group:twoSum.playground">
       </FileRef>
    </Group>
