@@ -1,2 +1,4 @@
-# OJ
-OJ practice 
+# Algorithm
+Algorithm practice 
+
+
