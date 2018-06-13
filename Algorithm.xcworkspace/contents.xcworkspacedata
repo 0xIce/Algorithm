@@ -15,6 +15,9 @@
       location = "group:GCD"
       name = "GCD">
       <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
          location = "group:GCD.playground">
       </FileRef>
    </Group>
