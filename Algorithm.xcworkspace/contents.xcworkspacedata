@@ -21,4 +21,11 @@
          location = "group:GCD.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "group:BinarySearch"
+      name = "BinarySearch">
+      <FileRef
+         location = "group:BinarySearch.playground">
+      </FileRef>
+   </Group>
 </Workspace>
