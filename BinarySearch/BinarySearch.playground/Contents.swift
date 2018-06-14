@@ -1,2 +1,2 @@
 
-let index = binarySearch(key: 4, data: Array(0...10))
+let index = binarySearch(key: 4, sortedData: Array(0...10))
