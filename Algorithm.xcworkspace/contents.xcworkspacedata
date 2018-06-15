@@ -26,6 +26,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:Stack"
+      name = "Stack">
+      <FileRef
+         location = "group:Stack.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:twoSum"
       name = "twoSum">
       <FileRef
