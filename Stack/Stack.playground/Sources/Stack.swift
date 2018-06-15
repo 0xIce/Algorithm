@@ -1,5 +1,3 @@
-import Cocoa
-
 public struct Stack<T> {
   private var _elements = [T]()
   
@@ -43,9 +41,8 @@ extension Stack: ExpressibleByArrayLiteral {
   }
 }
 
-//extension Stack: CustomStringConvertible {
-//  public var description: String {
-//    
-//    return "\(T.self): \(strResult)"
-//  }
-//}
+extension Stack: CustomStringConvertible {
+  public var description: String {
+    return "\(T.self) Stack: " + _elements.map {"\($0)"}.joined(separator: ",")
+  }
+}
