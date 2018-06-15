@@ -9,14 +9,9 @@ DerivedData/
 *.xccheckout
 *.moved-aside
 *.xcuserstate
+*.xctimeline
 
 xcuserdata
-
-!default.pbxuser
-!default.mode1v3
-!default.mode2v3
-!default.perspectivev3
-!default.xcworkspace
 
 profile
 *.hmap
