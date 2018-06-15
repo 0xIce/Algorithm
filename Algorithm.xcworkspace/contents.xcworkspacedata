@@ -2,13 +2,17 @@
 <Workspace
    version = "1.0">
    <Group
-      location = "group:twoSum"
-      name = "twoSum">
+      location = "group:ArithmeticExpressionEvaluation"
+      name = "ArithmeticExpressionEvaluation">
       <FileRef
-         location = "group:README.md">
+         location = "group:/Users/hotch/Documents/DataStructureAndAlgorithm/Algorithm/ArithmeticExpressionEvaluation/ArithmeticExpressionEvaluation.playground">
       </FileRef>
+   </Group>
+   <Group
+      location = "group:BinarySearch"
+      name = "BinarySearch">
       <FileRef
-         location = "group:twoSum.playground">
+         location = "group:BinarySearch.playground">
       </FileRef>
    </Group>
    <Group
@@ -22,10 +26,13 @@
       </FileRef>
    </Group>
    <Group
-      location = "group:BinarySearch"
-      name = "BinarySearch">
+      location = "group:twoSum"
+      name = "twoSum">
       <FileRef
-         location = "group:BinarySearch.playground">
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:twoSum.playground">
       </FileRef>
    </Group>
 </Workspace>
