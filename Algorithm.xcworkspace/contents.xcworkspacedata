@@ -26,6 +26,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:Palindrome"
+      name = "Palindrome">
+      <FileRef
+         location = "group:Palindrome.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:ReverseInt"
       name = "ReverseInt">
       <FileRef
