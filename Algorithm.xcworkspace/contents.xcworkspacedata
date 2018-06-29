@@ -40,6 +40,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:RomanToInt"
+      name = "RomanToInt">
+      <FileRef
+         location = "group:RomanToInt.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:Stack"
       name = "Stack">
       <FileRef
