@@ -26,6 +26,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:ReverseInt"
+      name = "ReverseInt">
+      <FileRef
+         location = "group:ReverseInt.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:Stack"
       name = "Stack">
       <FileRef
