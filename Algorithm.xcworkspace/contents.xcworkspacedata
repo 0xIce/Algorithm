@@ -70,4 +70,11 @@
          location = "group:twoSum.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "group:ValidBracket"
+      name = "ValidBracket">
+      <FileRef
+         location = "group:ValidBracket.playground">
+      </FileRef>
+   </Group>
 </Workspace>
