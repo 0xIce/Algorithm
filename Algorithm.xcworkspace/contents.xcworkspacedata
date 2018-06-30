@@ -33,6 +33,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:MergeTwoSortedLists"
+      name = "MergeTwoSortedLists">
+      <FileRef
+         location = "group:MergeTwoSortedLists.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:Palindrome"
       name = "Palindrome">
       <FileRef
