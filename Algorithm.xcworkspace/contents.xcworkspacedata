@@ -74,6 +74,9 @@
       location = "group:ValidBracket"
       name = "ValidBracket">
       <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
          location = "group:ValidBracket.playground">
       </FileRef>
    </Group>
