@@ -26,6 +26,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:LongestCommonPrefix"
+      name = "LongestCommonPrefix">
+      <FileRef
+         location = "group:LongestCommonPrefix.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:Palindrome"
       name = "Palindrome">
       <FileRef
