@@ -54,6 +54,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:RemoveElement"
+      name = "RemoveElement">
+      <FileRef
+         location = "group:RemoveElement.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:ReverseInt"
       name = "ReverseInt">
       <FileRef
