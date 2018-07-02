@@ -16,6 +16,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:Duplicates"
+      name = "Duplicates">
+      <FileRef
+         location = "group:RemoveDuplicatesFromSortedArray.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:GCD"
       name = "GCD">
       <FileRef
