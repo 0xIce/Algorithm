@@ -82,6 +82,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:StrStr"
+      name = "StrStr">
+      <FileRef
+         location = "group:StrStr.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:twoSum"
       name = "twoSum">
       <FileRef
