@@ -1,14 +1,10 @@
 
-public func strStr(_ haystack: String, _ needle: String) -> Int {
-  guard !needle.isEmpty else {
-    return 0
-  }
-  for searchIndex in needle.indices {
-    
-  }
-  return -1
-}
-
-
 //: test
-strStr("testt", "tt")
+let testStr = "testtt"
+let findStr = "tt"
+bf(testStr, findStr)
+kmp(testStr, findStr)
+
+
+
+

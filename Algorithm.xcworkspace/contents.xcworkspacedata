@@ -85,6 +85,9 @@
       location = "group:StrStr"
       name = "StrStr">
       <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
          location = "group:StrStr.playground">
       </FileRef>
    </Group>
