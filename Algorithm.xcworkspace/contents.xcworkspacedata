@@ -33,6 +33,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:iOSInterviewMethod"
+      name = "iOSInterviewMethod">
+      <FileRef
+         location = "group:iOSInterviewMethod.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:LongestCommonPrefix"
       name = "LongestCommonPrefix">
       <FileRef
