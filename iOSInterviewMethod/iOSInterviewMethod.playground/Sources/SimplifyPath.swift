@@ -7,15 +7,15 @@
  创立一个栈然后遍历拆分后的 String 数组，对于一般 String ，直接加入到栈中，对于 ".." 那我们就对栈做 pop 操作，其他情况不错处理。
  */
 
-//public func simplifyPath(_ path: String) -> String {
-//  var pathStack = [String]()
-//  
-//  let paths = path.components(separetedBy: "/")
-//  
-//  for path in paths {
-//    guard let path != "." else {
-//      continue
-//    }
-//    
-//  }
-//}
+public func simplifyPath(_ path: String) -> String {
+  var pathStack = [String]()
+  
+  let paths = path.components(separatedBy: "/")
+  
+  for path in paths {
+    guard let path != "." else {
+      continue
+    }
+    
+  }
+}
