@@ -61,6 +61,13 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:RemoveDuplicates"
+      name = "RemoveDuplicates">
+      <FileRef
+         location = "group:RemoveDuplicates.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:RemoveElement"
       name = "RemoveElement">
       <FileRef
