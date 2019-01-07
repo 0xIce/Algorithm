@@ -5,7 +5,7 @@
       location = "group:ArithmeticExpressionEvaluation"
       name = "ArithmeticExpressionEvaluation">
       <FileRef
-         location = "group:/Users/hotch/Documents/DataStructureAndAlgorithm/Algorithm/ArithmeticExpressionEvaluation/ArithmeticExpressionEvaluation.playground">
+         location = "group:ArithmeticExpressionEvaluation.playground">
       </FileRef>
    </Group>
    <Group
