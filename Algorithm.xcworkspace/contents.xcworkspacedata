@@ -47,6 +47,16 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:MajorityElement"
+      name = "MajorityElement">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:MajorityElement.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:MergeTwoSortedLists"
       name = "MergeTwoSortedLists">
       <FileRef
