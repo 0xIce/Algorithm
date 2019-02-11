@@ -89,6 +89,16 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:SingleNumber"
+      name = "SingleNumber">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:SingleNumber.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:Stack"
       name = "Stack">
       <FileRef
