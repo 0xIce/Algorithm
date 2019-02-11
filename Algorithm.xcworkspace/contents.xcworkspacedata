@@ -23,6 +23,16 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:/Users/hotch/Documents/Algorithm/Fibonacci"
+      name = "Fibonacci">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:Fibonacci.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:GCD"
       name = "GCD">
       <FileRef
