@@ -1,4 +1,6 @@
 #  求众数(Majority Element)
+
+## Problem
 给定一个大小为 n 的数组，找到其中的众数。众数是指在数组中出现次数大于 ⌊ n/2 ⌋ 的元素。
 你可以假设数组是非空的，并且给定的数组总是存在众数。
 示例 1:
@@ -11,8 +13,8 @@
 输入: [2,2,1,1,1,2,2]
 输出: 2
 ```
--- [leetcode](https://leetcode-cn.com/problems/majority-element/)
+-- from [leetcode](https://leetcode-cn.com/problems/majority-element/)
 
-# Solution
+## Solution
 - 思路1: 用字典记录每个元素的出现次数
 - 思路2: 用摩尔投票法，假定第一个元素为众数，次数记为1，遇到不相同的元素次数减1，遇到相同的元素次数加1，次数变为0时，假定众数为下一元素
