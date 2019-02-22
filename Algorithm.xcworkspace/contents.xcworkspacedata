@@ -16,6 +16,16 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:/Users/hotch/Documents/Algorithm/BinaryTreeTraversal"
+      name = "BinaryTreeTraversal">
+      <FileRef
+         location = "group:/Users/hotch/Documents/Algorithm/BinaryTreeTraversal/README.md">
+      </FileRef>
+      <FileRef
+         location = "group:BinaryTreeTraversal.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:Duplicates"
       name = "Duplicates">
       <FileRef
