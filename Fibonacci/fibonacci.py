@@ -1,7 +1,7 @@
-def fibonacci(length):
-  pre = 1
-  result = 0
-  for _ in range(length):
+def fibonacci(n):
+  pre = 0
+  result = 1
+  for _ in range(2, n):
     pre, result = result, pre + result
 
   return result

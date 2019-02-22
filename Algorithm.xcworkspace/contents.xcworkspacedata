@@ -67,6 +67,16 @@
       </FileRef>
    </Group>
    <Group
+      location = "group:LRU"
+      name = "LRU">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:LRU.playground">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:MajorityElement"
       name = "MajorityElement">
       <FileRef
