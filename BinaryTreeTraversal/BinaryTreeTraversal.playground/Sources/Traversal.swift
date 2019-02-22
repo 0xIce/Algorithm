@@ -49,3 +49,25 @@ public func postorderTraversal(_ root: TreeNode?) -> [Int] {
   }
   return result.reversed()
 }
+
+public func levelOrder(_ root: TreeNode?) -> [[Int]] {
+  var result = [[Int]]()
+  if root == nil {
+    return result
+  }
+  var queue = [(root!, 0)]
+  while !queue.isEmpty {
+    let (node, level) = queue.remove(at: 0)
+    if result.count == level {
+      result.append([])
+    }
+    result[level].append(node.val)
+    if let left = node.left {
+      queue.append((left, level + 1))
+    }
+    if let right = node.right {
+      queue.append((right, level + 1))
+    }
+  }
+  return result
+}

@@ -1,5 +1,4 @@
 
-
 let root = TreeNode(1)
 
 var left = TreeNode(2)
@@ -19,4 +18,5 @@ root.right?.right = right
 
 //print(preorderTraversal(root))
 //print(inorderTraversal(root))
-print(postorderTraversal(root))
+//print(postorderTraversal(root))
+print(levelOrder(root))
